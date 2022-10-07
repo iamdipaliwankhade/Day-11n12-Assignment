@@ -3,10 +3,7 @@ package com.stockaccount;
 import java.util.Scanner;
 
 public class StockPortfolio extends StockAccount {
-	/**
-	 * 
-	 * @param args
-	 */
+	
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
